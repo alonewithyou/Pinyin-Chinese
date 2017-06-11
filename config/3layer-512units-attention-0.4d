@@ -1,0 +1,9 @@
+nlp-train.t7
+-brnn true
+-layers 3
+-rnn_size 512
+-dropout 0.4
+-report_every 1000
+-residual true
+-attention global
+-end_epoch 30
